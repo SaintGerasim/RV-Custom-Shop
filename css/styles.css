@@ -1,0 +1,361 @@
+@import url("../webfonts/FontAwesome/stylesheet.css");
+@import url("../webfonts/MyriadProRegular/stylesheet.css");
+
+header {
+	background-color: #f6d8d9;
+	padding-bottom: 1px;
+	width: 100%;
+}
+.logo {
+	text-align: center;
+}
+
+header h2 {
+	font-family: Magneto;
+	color: #8114c6;
+	font-size: 25px;
+	font-weight: 700;
+	transform: scaleY(1.309);
+	text-align: center;
+	margin-top: 3px;
+}
+header h2:hover  {
+	font-family: Magneto;
+	color: #F26C4F;
+	font-size: 25px;
+	font-weight: 700;
+	transform: scaleY(1.309);
+	text-align: center;
+	margin-top: 3px;
+}
+nav {
+	background-color: #cfbdcd;
+	font-family: open-sans;
+	font-size: 16px;
+	font-weight: 700;
+	color: #F8F8F8;
+	font-style: normal;
+	list-style-type: none;
+	padding-top: 10px;
+	padding-bottom: 3px;
+	margin-top: 4px;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	width: 100%;
+}
+nav ul {
+	padding: 0px;
+	list-style-type: none;
+	text-align: center;
+}
+nav ul li {
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+nav a {
+	color: #FFFFFF;
+}
+nav a:hover  {
+	color: #da3cd4;
+	text-decoration: none;
+}
+nav a:active  {
+	color: #BB22B5;
+}
+nav a:focus  {
+	color: #4B0E49;
+	text-decoration: none;
+}
+.carousel {
+	margin-top: 60px;
+}
+.carousel-inner .item .center-block {
+	width: 550px;
+	height: 350px;
+}
+
+
+
+
+
+
+.item .carousel-caption h3 {
+	font-family: open-sans;
+	color: #ffffff;
+	font-size: 39.59px;
+	font-weight: 700;
+	transform: scaleY(0.957);
+	font-style: normal;
+	text-transform: uppercase;
+}
+.carousel-costil {
+	margin-top: 0px;
+}
+
+.desc {
+	font-family: open-sans;
+	color: #3d3c3c;
+	font-size: 22.92px;
+	font-weight: 700;
+	line-height: 47.205px;
+	font-style: normal;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.swag-pink-header {
+	font-family: "Viner Hand ITC";
+	color: #db37d6;
+	font-size: 43px;
+	font-weight: 400;
+	line-height: 0.01px;
+	transform: scaleY(1.309);
+	text-align: center;
+	margin-top: 90px;
+}
+.swag-pink-header ul li {
+	display: inline-block;
+}
+
+
+.big-pink-button {
+	border-radius: 10px;
+	border: 3px solid #db37d5;
+	background-color: #f6d8d9;
+	font-family: open-sans;
+	color: #ffffff;
+	font-size: 20.62px;
+	font-weight: 700;
+	font-style: normal;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.big-pink-button {
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	margin-top: 40px;
+	text-shadow: 0.5px 0.9px rgba(9,6,6,0.74);
+}
+.big-pink-button:hover {
+	border-radius: 10px;
+	border: 3px solid #db37d5;
+	background-color: #6DCFF6;
+	font-family: open-sans;
+	color: #ffffff;
+	font-size: 20.62px;
+	font-weight: 700;
+	font-style: normal;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.conversion {
+}
+.buy {
+}
+.row {
+	text-align: center;
+	margin-top: 20px;
+}
+
+img[src$=".svg"] {
+	width: 90px;
+	height: 50px;
+}
+.row p {
+	font-family: open-sans;
+	color: #3d3c3c;
+	font-size: 12.99px;
+	font-weight: 700;
+	line-height: 28.109px;
+	font-style: normal;
+}
+
+
+.rent {
+}
+.reach {
+	
+}
+.reach #googleMap {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	width: 60%;
+	height: 301px;
+	min-height: 400px;
+}
+
+.contact {
+}
+
+.reach .desc {
+	text-align: center;
+}
+.contact .desc img {
+	width: 30px;
+	padding: 0px 3px;
+	height: 30px;
+}
+.message {
+}
+.kostil-message {
+	margin-top: 60px;
+	margin-bottom: 18px;
+}
+#name , #surname, .input-else{
+	border: 1px solid #000000;
+	background-color: #ebebeb;
+	font-family: open-sans;
+	color: #3d3c3c;
+	font-size: 20.62px;
+	font-weight: 700;
+	line-height: 38.039px;
+	font-style: normal;
+	width: 100%;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border-radius: 3px;
+}
+
+#name, #surname {
+
+}
+.input-else {
+
+}
+
+#textarea {
+	height: 200px;
+}
+footer {
+	background-color: #f6d8d9;
+	margin-top: 51px;
+	height: 189px;
+}
+
+.soc-btn {
+	text-align: center;
+}
+.soc-btn p {
+
+
+}
+
+.soc-btn .soc-btn-facebook {
+	font-family: FontAwesome;
+	color: #3b5998;
+	font-size: 58px;
+	font-weight: 400;
+	line-height: 49px;
+}
+.soc-btn .soc-btn-twitter {
+	font-family: FontAwesome;
+	color: #41abe1;
+	font-size: 58px;
+	font-weight: 400;
+	line-height: 49px;
+}
+.soc-btn .soc-btn-instagram {
+	font-family: FontAwesome;
+	font-size: 58px;
+	font-weight: 400;
+	line-height: 49px;
+	color: rgba(180,20,145,1.00);
+}
+.soc-btn .soc-btn-pinterest {
+	font-family: FontAwesome;
+	font-size: 58px;
+	font-weight: 400;
+	line-height: 49px;
+	color: #bd081c;
+}
+
+footer .dev-with-love {
+	text-align: center;
+	margin-top: 33px;
+
+
+
+}
+
+
+
+
+
+
+.dev-heart {
+	font-family: FontAwesome;
+	line-height: 38.039px;
+	color: #d65454;
+	font-size: 16px;
+	font-weight: 400;
+}
+.dev-with {
+	font-family: open-sans;
+	color: #3d3c3c;
+	font-size: 12px;
+	font-weight: 700;
+	font-style: normal;
+}
+.dev-name {
+	font-family: MyriadProRegular;
+	color: #3d3c3c;
+	font-size: 12px;
+	font-weight: 400;
+}
+.copyright-year {
+	text-align: center;
+	font-size: small;
+}
+
+
+.footer-copyright {
+	font-family: FontAwesome;
+}
+.footer-year {
+	font-family: Georgia;
+}
+
+@media (max-width: 767px){
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+}
+
+@media (min-width: 768px){
+}
+
+@media (min-width: 992px){
+}
+
+@media (min-width: 1200px){
+}
+
+@media (max-width: 627px){
+nav ul li {
+	display: block;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.swag-pink-header ul li {
+	display: block;
+	min-height: 40px;
+}
+
+
+
+
+}
