@@ -3,7 +3,7 @@
 @import url("../webfonts/Viner_Hand_ITC/stylesheet.css");
 @font-face {
 	font-family: Magneto;
-	src: url("../fonts/Magneto/MAGNETOB.TTF")format('truetype')
+	src: url(../fonts/Magneto/MAGNETOB.TTF);
 }
 
 header {
