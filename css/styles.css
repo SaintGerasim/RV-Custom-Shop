@@ -2,11 +2,11 @@
 @import url("../webfonts/MyriadProRegular/stylesheet.css");
 @font-face {
     font-family: 'Viner Hand ITC';
-    src: url('fonts\viner-hand-itc\Viner Hand ITC.ttf');
+    src: url('../fonts/viner-hand-itc/Viner Hand ITC.ttf');
 }
 @font-face {
     font-family: 'Magneto';
-    src: url('fonts\Magneto\MAGNETOB.TTF');
+    src: url('../fonts/Magneto/MAGNETOB.TTF');
 }
 header {
 	background-color: #f6d8d9;
