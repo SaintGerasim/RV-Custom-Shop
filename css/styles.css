@@ -1,6 +1,10 @@
 @import url("../webfonts/FontAwesome/stylesheet.css");
 @import url("../webfonts/MyriadProRegular/stylesheet.css");
 @import url("../webfonts/Viner_Hand_ITC/stylesheet.css");
+@font-face {
+	font-family: Magento;
+	src: url(../fonts/Magneto/MAGNETOB.TTF)format('truetype')
+}
 
 header {
 	background-color: #f6d8d9;
