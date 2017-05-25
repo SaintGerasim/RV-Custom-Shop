@@ -1,7 +1,13 @@
 @import url("../webfonts/FontAwesome/stylesheet.css");
 @import url("../webfonts/MyriadProRegular/stylesheet.css");
-@import url("../fonts/viner-hand-itc/Viner Hand ITC.ttf");
-@import url("../fonts/Magneto/MAGNETOB.TTF");
+@font-face {
+    font-family: 'Viner Hand ITC';
+    src: url('fonts\viner-hand-itc\Viner Hand ITC.ttf');
+}
+@font-face {
+    font-family: 'Magneto';
+    src: url('fonts\Magneto\MAGNETOB.TTF');
+}
 header {
 	background-color: #f6d8d9;
 	padding-bottom: 1px;
