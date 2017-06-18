@@ -332,6 +332,22 @@ footer .dev-with-love {
 }
 
 @media (max-width: 767px){
+footer {
+	background-color: #f6d8d9;
+	margin-top: 51px;
+	height: 364px;
+}
+.reach #googleMap {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	width: 90%;
+	height: 301px;
+	min-height: 400px;
+}
+
+
 }
 
 @media (min-width: 768px) and (max-width: 991px){
@@ -359,6 +375,12 @@ nav ul li {
 	display: block;
 	min-height: 40px;
 }
+footer {
+	background-color: #f6d8d9;
+	margin-top: 51px;
+	height: 364px;
+}
+
 
 
 
